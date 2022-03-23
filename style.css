@@ -93,3 +93,7 @@ body {
 .new {
     background-color: white;
 }
+
+#nameOne {
+    margin-bottom: 50px;
+}
