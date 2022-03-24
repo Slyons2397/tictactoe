@@ -97,3 +97,12 @@ body {
 #nameOne {
     margin-bottom: 50px;
 }
+
+#winmessage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 3rem;
+    grid-column: 2;
+}
